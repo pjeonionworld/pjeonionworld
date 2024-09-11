@@ -1,4 +1,5 @@
-<h1 align="left">print("Hello, World!")</h1>
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=print("Hello,%20World!")&fontSize=70)
+
 <p align="left">👋데이터와 함께 성장하는 백엔드 개발자 박주언입니다.</p>
 <p align="left">데이터 분석 경험을 바탕으로, 시스템을 최적화하고 더 나은 성능을 제공하는 백엔드 개발을 목표로 합니다.</p>
 <br/><br/>
