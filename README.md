@@ -6,7 +6,7 @@
 
 
 
-- 🎓 부산외국어대학교, 임베디드 SW 학과
+
 - 📫 E-mail **qkrwndjs9898@gmail.com**
 - 📝 Tech Blog **https://qkrwndjs.tistory.com/**
 <hr/>
