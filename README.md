@@ -30,7 +30,4 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrwndjs9898)](https://solved.ac/qkrwndjs9898)
 <br/>
-<h3 align="left">💬Connect with me</h3>
-<p align="left">
-<a href="https://instagram.com/p__onion" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="p__onion" height="30" width="40" /></a>
 </p>
