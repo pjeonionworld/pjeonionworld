@@ -1,8 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=print("Hello,%20World!")&fontSize=70)
 
 ## 👋 About Me
-**상상을 실현시키 백엔드 개발자 박주언입니다.**
-Java와 Spring을 중심으로 백엔드 개발을 하고 있습니다. 단순히 기능을 구현하는 것에 그치지 않고, **데이터의 흐름과 시스템의 안정성을 고려하는 개발**을 지향합니다. <br>
+**상상을 실현시키 백엔드 개발자 박주언입니다.** 
+<br>
+Java와 Spring을 중심으로 백엔드 개발을 하고 있습니다. <br>
+단순히 기능을 구현하는 것에 그치지 않고, **데이터의 흐름과 시스템의 안정성을 고려하는 개발**을 지향합니다. <br>
 새로운 아이디어를 직접 구현하고 서비스로 완성하는 과정을 좋아합니다. <br>
 
 <br>
@@ -13,7 +15,7 @@ Java와 Spring을 중심으로 백엔드 개발을 하고 있습니다. 단순�
 
 <br>
 
-##🔨Tech Stack
+## 🔨Tech Stack
 <p align="left"> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
